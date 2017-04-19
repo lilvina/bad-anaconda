@@ -76,6 +76,7 @@ INSERT INTO marvels VALUES(
     4, 
     1, 
     7);
+
 INSERT INTO marvels VALUES(
     5, 
     "Thor", 
