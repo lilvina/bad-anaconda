@@ -163,23 +163,23 @@ Complete another Khan Academy project, use the SQL Designer tool, and install th
 
 Create schemas and mock data for the "Bike Shop" and "Music Player" apps from the Init 2 goal. Then run queries against them. Read the [Generating Mock Data](#generating-mock-data) section to learn how to generate fake data.
 
-- [ ] Folder `bike-shop/` exists in your repo.
-- [ ] Database schema SQL (using PostgreSQL syntax) for the Bike Shop from [Init 2: OOP Practice with Bike Shop][bike-shop-oop] is included in the file `bike-shop/schema.sql`.
-- [ ] Bike Shop schema matches the specifications in [Table Schema for Bike Shop](#table-schema-for-bike-shop).
-- [ ] Folder `music-player/` exists in your repo.
-- [ ] Database schema SQL (using PostgreSQL syntax) for the Music Player from [Init 2: OOP Practice with Bike Shop][bike-shop-oop] is included in the file `music-player/schema.sql`.
-- [ ] Music Player schema includes tables and appropriate columns for:
-  - [ ] Artists
-  - [ ] Albums
-  - [ ] Songs
-  - [ ] Playlists
-- [ ] Mock data is generated for the Music Player and added to the file `music-player/mock_data.sql`.
-- [ ] Sample queries against the Music Player database are added to the file `music-player/queries.sql`.
-- [ ] Queries against the Music Player include at least one instance of the following SQL keywords:
-  - [ ] `WHERE`
+- [X] Folder `bike-shop/` exists in your repo.
+- [X] Database schema SQL (using PostgreSQL syntax) for the Bike Shop from [Init 2: OOP Practice with Bike Shop][bike-shop-oop] is included in the file `bike-shop/schema.sql`.
+- [X] Bike Shop schema matches the specifications in [Table Schema for Bike Shop](#table-schema-for-bike-shop).
+- [X] Folder `music-player/` exists in your repo.
+- [X] Database schema SQL (using PostgreSQL syntax) for the Music Player from [Init 2: OOP Practice with Bike Shop][bike-shop-oop] is included in the file `music-player/schema.sql`.
+- [X] Music Player schema includes tables and appropriate columns for:
+  - [X] Artists
+  - [X] Albums
+  - [X] Songs
+  - [X] Playlists
+- [X] Mock data is generated for the Music Player and added to the file `music-player/mock_data.sql`.
+- [X] Sample queries against the Music Player database are added to the file `music-player/queries.sql`.
+- [X] Queries against the Music Player include at least one instance of the following SQL keywords:
+  - [X] `WHERE`
   - [ ] `LIMIT`
   - [ ] `ORDER BY`
-  - [ ] `LIKE`
+  - [X] `LIKE`
   - [ ] `AND/OR`
   - [ ] `HAVING`
   - [ ] `IN`
