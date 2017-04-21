@@ -189,9 +189,9 @@ Create schemas and mock data for the "Bike Shop" and "Music Player" apps from th
 
 Complete the final Khan Academy project. Design and create schemas for the "Bossggle" and "Mmmarkdown" apps from the Init 1 and Init 3 goals.
 
-- [ ] Solution SQL for the Khan Academy project: [App impersonator][ka-proj-app-impersonator] is added to a file in your repo named `app_impersonator.sql`
-- [ ] SQL in `app_impersonator.sql` has consistent indentation.
-- [ ] All the SQL keywords in `app_impersonator.sql` are written in ALL CAPS.
+- [X] Solution SQL for the Khan Academy project: [App impersonator][ka-proj-app-impersonator] is added to a file in your repo named `app_impersonator.sql`
+- [X] SQL in `app_impersonator.sql` has consistent indentation.
+- [X] All the SQL keywords in `app_impersonator.sql` are written in ALL CAPS.
 - [ ] Folder `bossggle/` exists in your repo.
 - [ ] Database schema SQL (using PostgreSQL syntax) for the Bossggle game from [Init 1: Bossggle Word Game][bossggle-word-game] is included in the file `bossggle/schema.sql`.
 - [ ] Bossggle schema supports the following features (i.e. you _could_ write SQL to show this data):
